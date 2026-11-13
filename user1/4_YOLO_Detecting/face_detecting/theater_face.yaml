@@ -1,0 +1,10 @@
+# theater_face.yaml
+# 절대 경로나 상대 경로를 작업 환경에 맞게 수정하십시오.
+path: /workspace/user1/4_YOLO_Detecting/data  # 데이터셋 루트 폴더 최상위 경로
+train: train/images
+val: valid/images
+test: test/images
+
+# 클래스 설정 (단일 클래스)
+names:
+  0: Face

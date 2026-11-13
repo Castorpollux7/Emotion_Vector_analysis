@@ -1,0 +1,2 @@
+﻿crop_id,bbox,complex_label,distance,Anger_prob,Happy_prob,Panic_prob,Sadness_prob,Neutral_prob
+crop_001,"[26, 32, 78, 97]",공포,0.3175,0.0479,0.2026,0.4387,0.1311,0.1792

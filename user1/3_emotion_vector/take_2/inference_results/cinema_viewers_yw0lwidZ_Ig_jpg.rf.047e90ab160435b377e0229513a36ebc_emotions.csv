@@ -1,0 +1,4 @@
+﻿crop_id,bbox,complex_label,distance,Anger_prob,Happy_prob,Panic_prob,Sadness_prob,Neutral_prob
+crop_000,"[147, 87, 207, 182]",염려,0.189,0.0274,0.296,0.38,0.1348,0.162109375
+crop_001,"[303, 114, 364, 219]",기쁨,0.1622,0.0,1.0,0.0,0.0,0.0
+crop_002,"[233, 68, 300, 190]",기쁨,0.1622,0.0,1.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+﻿crop_id,bbox,complex_label,distance,Anger_prob,Happy_prob,Panic_prob,Sadness_prob,Neutral_prob
+crop_023,"[376, 269, 420, 346]",혼란,0.2582,0.0996,0.1348,0.2764,0.195,0.2944

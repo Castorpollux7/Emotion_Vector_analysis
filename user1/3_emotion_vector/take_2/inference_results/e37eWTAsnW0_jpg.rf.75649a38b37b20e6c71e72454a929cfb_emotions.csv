@@ -1,0 +1,3 @@
+﻿crop_id,bbox,complex_label,distance,Anger_prob,Happy_prob,Panic_prob,Sadness_prob,Neutral_prob
+crop_000,"[323, 118, 372, 219]",실망,0.2119,0.031,0.0436,0.1096,0.392,0.424
+crop_001,"[207, 94, 257, 192]",경멸,0.1537,0.3508,0.0396,0.1172,0.0708,0.4211
